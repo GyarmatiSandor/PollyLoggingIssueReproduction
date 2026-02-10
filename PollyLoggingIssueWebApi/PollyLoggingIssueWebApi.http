@@ -1,0 +1,6 @@
+@PollyLoggingIssueWebApi_HostAddress = http://localhost:5276
+
+GET {{PollyLoggingIssueWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
